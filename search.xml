@@ -5,8 +5,8 @@
     
     <entry>
       <title>sudo shutdown -r now</title>
-      <link href="2020/07/22/helloworld/"/>
-      <url>2020/07/22/helloworld/</url>
+      <link href="/en/2020/07/22/helloworld/"/>
+      <url>/en/2020/07/22/helloworld/</url>
       
         <content type="html"><![CDATA[<p>You may be puzzled that all the blog posts are gone. <strong>This is because I had my blog cleaned up a few days ago.</strong></p><a id="more"></a><p><strong>tl;dr</strong></p><p>The other day, I suddenly found that my blog was occupied by articles which are not helpful at all. Seeing these, I was determined to restart my blog. It was so great a feeling. The <code>_posts</code> directory empty, I got relieved.</p><p>Before this, my posts are either “stolen” from the others or just full of nonsense. <strong>Here, I am commited to not making such unforgivable thing happen any longer.</strong> After all, the blog was completely built by myself — the about page, the configuation of the theme, the font, etc. were all made through effort. I had modified the theme a lot, adjusting the blog to be good-looking. And what about the result? Filled with trash!!! lol. What on earth am I doing!!!</p><p>So, where the past blog posts? Actually, I did not really deleted them. I just placed them in the <code>Draft</code> directory. Of cource, you are inaccessible to them. lol. </p><p>Let’s get to know each other again. Run the code <code>sudo shutdown -r now</code>!</p>]]></content>
       
