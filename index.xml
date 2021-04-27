@@ -6,7 +6,7 @@
   <link href="https://aeilot.github.io/en/index.xml" rel="self"/>
   
   <link href="https://aeilot.github.io/en/"/>
-  <updated>2021-03-27T09:57:40.232Z</updated>
+  <updated>2021-04-27T11:12:22.924Z</updated>
   <id>https://aeilot.github.io/en/</id>
   
   <author>
@@ -21,12 +21,16 @@
     <link href="https://aeilot.github.io/en/2020/07/22/helloworld/"/>
     <id>https://aeilot.github.io/en/2020/07/22/helloworld/</id>
     <published>2020-07-22T09:45:09.000Z</published>
-    <updated>2021-03-27T09:57:40.232Z</updated>
+    <updated>2021-04-27T11:12:22.924Z</updated>
     
-    <content type="html"><![CDATA[<p>You may be puzzled that all the blog posts are gone. <strong>This is because I had my blog cleaned up a few days ago.</strong></p><a id="more"></a><p><strong>tl;dr</strong></p><p>The other day, I suddenly found that my blog was occupied by articles which are not helpful at all. Seeing these, I was determined to restart my blog. It was so great a feeling. The <code>_posts</code> directory empty, I got relieved.</p><p>Before this, my posts are either “stolen” from the others or just full of nonsense. <strong>Here, I am commited to not making such unforgivable thing happen any longer.</strong> After all, the blog was completely built by myself — the about page, the configuation of the theme, the font, etc. were all made through effort. I had modified the theme a lot, adjusting the blog to be good-looking. And what about the result? Filled with trash!!! lol. What on earth am I doing!!!</p><p>So, where the past blog posts? Actually, I did not really deleted them. I just placed them in the <code>Draft</code> directory. Of cource, you are inaccessible to them. lol. </p><p>Let’s get to know each other again. Run the code <code>sudo shutdown -r now</code>!</p>]]></content>
+    <content type="html"><![CDATA[<p>You may be puzzled that all the blog posts are gone. <strong>This is because I had my blog cleaned up a few days ago.</strong></p><p><strong>tl;dr</strong></p><p>The other day, I suddenly found that my blog was occupied by articles that are not helpful at all. Seeing these, I was determined to restart my blog. It was so great a feeling. The <code>_posts</code> directory empty, I got relieved.</p><p>Before this, my posts are either “stolen” from the others or just full of nonsense. <strong>Here, I am committed to not making such an unforgivable thing happen any longer.</strong> After all, the blog was completely built by myself — the about page, the configuration of the theme, the font, etc. were all made through effort. I had modified the theme a lot, adjusting the blog to be good-looking. And what about the result? Filled with trash!!! lol. What on earth am I doing!!!</p><p>So, where the past blog posts? Actually, I did not really delete them. I just placed them in the <code>Draft</code> directory. Of course, you are inaccessible to them. lol.</p><p>Let’s get to know each other again. Run the code <code>sudo shutdown -r</code> now!</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;You may be puzzled that all the blog posts are gone. &lt;strong&gt;This is because I had my blog cleaned up a few days ago.&lt;/strong&gt;&lt;/p&gt;</summary>
+      
+      
+    <summary type="html">&lt;p&gt;You may be puzzled that all the blog posts are gone. &lt;strong&gt;This is because I had my blog cleaned up a few days ago.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;st</summary>
+      
     
     
     
